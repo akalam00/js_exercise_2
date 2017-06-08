@@ -14,6 +14,7 @@ h1{
 	padding: 20px;
 	margin: 2px;
 	text-align: none;
+	background: #54504c;
 }
 .form-class{
 	width: 65%;
@@ -21,18 +22,20 @@ h1{
 	margin: auto;
 	border: 10px solid green;
 	text-align: center;
+	background:#f4a941;
 
 }
 button{
 	display: inline-block;
-	background: yellow;
+	background:#56f442;
+	border: 10px solid black;
 
 }
 
 label{
-	color: orange;
+	color: #4198f4;
 	padding: 20px;
 	display: inline-block;
-	border: ;
+	border: 30px solid blue;
 
 }
