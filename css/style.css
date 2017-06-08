@@ -6,4 +6,33 @@
 
 h1{
 	color: green;
+	text-align: center;
+	border-bottom: 2px solid black;
+}
+.main-just {
+	
+	padding: 20px;
+	margin: 2px;
+	text-align: none;
+}
+.form-class{
+	width: 65%;
+	padding: 40px;
+	margin: auto;
+	border: 10px solid green;
+	text-align: center;
+
+}
+button{
+	display: inline-block;
+	background: yellow;
+
+}
+
+label{
+	color: orange;
+	padding: 20px;
+	display: inline-block;
+	border: ;
+
 }
