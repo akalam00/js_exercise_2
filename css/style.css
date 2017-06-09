@@ -29,6 +29,8 @@ button{
 	display: inline-block;
 	background:#56f442;
 	border: 10px solid black;
+	padding: 40px;
+	width: 10%;
 
 }
 
@@ -38,4 +40,11 @@ label{
 	display: inline-block;
 	border: 30px solid blue;
 
+}
+
+.close-to-do{
+	display: inline-block;
+	margin-right: 10px;
+	font-size: 24px;
+	color: #f49e42;
 }
